@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}components}{1}{section.2}%
+\contentsline {section}{\numberline {3}karnaugh-map}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Implementation}{1}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Truthtable}{1}{section.4}%
+\contentsline {section}{\numberline {5}Hardware Connections}{1}{section.5}%
+\contentsline {section}{\numberline {6}Software}{1}{section.6}%

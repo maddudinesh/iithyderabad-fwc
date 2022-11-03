@@ -1,0 +1,7 @@
+#Block Name x   y   z    pcf_line
+#----- --  --  -    ----
+A       4   3  0  # set_io  A       4
+B       6   3  0  # set_io 	B	5
+C       8   3  0  # set_io 	C	6
+D       1  28  0  # set_io  D       7
+$iopadmap$boolean.F   2  31  0  # set_io  F       21
